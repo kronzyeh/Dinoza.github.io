@@ -1150,11 +1150,11 @@ header {
 \*------------------------------------*/
 
 #main .blog .blog-content {
-  padding: 1000px 0px 0px;
+  padding: 20px 0px 0px;
 }
 
 #main .blog {
-  margin-top: 1000px;
+  margin-top: 20px;
 }
 
 /* -- blog tags -- */
