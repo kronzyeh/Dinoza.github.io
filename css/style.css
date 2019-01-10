@@ -1126,7 +1126,7 @@ header {
 }
 
 .blog .blog-content {
-    padding: 20px 20px 1000px;
+    padding: 20px 20px 20px;
 }
 
 .blog .blog-meta {
